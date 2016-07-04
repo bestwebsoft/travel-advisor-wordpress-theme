@@ -1,0 +1,339 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Travel Advisor\n"
+"POT-Creation-Date: 2016-06-28 17:42+0300\n"
+"PO-Revision-Date: 2016-06-28 17:42+0300\n"
+"Last-Translator: BestWebSoft <https://github.com/bestwebsoft>\n"
+"Language-Team: bestwebsoft.com <wp_theme@bestwebsoft.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;esc_attr__;"
+"esc_attr_e;esc_html__;esc_html_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Oops! That page can not be found"
+msgstr "Ой! Такая страница не найдена"
+
+#: ../404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search"
+msgstr ""
+"Похоже, ничего не было найдено в этом месте. Может быть, попробуете поиск"
+
+#: ../archive.php:29 ../index.php:94 ../search.php:29 ../single.php:23
+msgid "posted by"
+msgstr "опубликовано"
+
+#: ../archive.php:33 ../functions.php:393 ../functions.php:482
+#: ../functions.php:728 ../index.php:98 ../search.php:33 ../single.php:27
+#, php-format
+msgid "%s ago"
+msgstr "%s назад"
+
+#: ../archive.php:49 ../index.php:118 ../page.php:27 ../search.php:49
+#: ../single.php:42
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../archive.php:60 ../index.php:132 ../search.php:60
+msgid "Sorry, no posts matched your criteria"
+msgstr "Извините, по вашему запросу записей не найдено"
+
+#: ../comments.php:14
+msgid "comments"
+msgstr "комментарии"
+
+#: ../comments.php:32
+msgid "Previous comments"
+msgstr "Предыдущие комментарии"
+
+#: ../comments.php:35
+msgid "Next Comments"
+msgstr "Следующие комментарии"
+
+#: ../comments.php:42
+msgid "Comments are closed"
+msgstr "Комментарии закрыты"
+
+#: ../comments.php:48 ../comments.php:49
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: ../comments.php:50
+msgid "Your message"
+msgstr "Ваше сообщение"
+
+#: ../footer.php:34
+msgid "type your email"
+msgstr "введите ваш email"
+
+#: ../footer.php:35
+msgid "subscribe our news"
+msgstr "подписаться на новости"
+
+#: ../footer.php:36
+msgid "send"
+msgstr "отправить"
+
+#: ../footer.php:58
+msgid "Powered by"
+msgstr "При поддержке"
+
+#: ../footer.php:59
+msgid "and"
+msgstr "и"
+
+#: ../functions.php:61
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: ../functions.php:96
+msgid "Upload a Logo Image for Header"
+msgstr "Вы можете добавить изображение логотипа для шапки блога"
+
+#: ../functions.php:112
+msgid "Upload a Logo Image for Footer"
+msgstr "Вы можете добавить изображение логотипа в подвал блога"
+
+#: ../functions.php:151 ../functions.php:152
+msgid "Travel Advisor Contact Widget"
+msgstr "Travel Advisor Виджет контактной информации"
+
+#: ../functions.php:157 ../functions.php:220
+msgid "Contacts"
+msgstr "Контакты"
+
+#: ../functions.php:213
+msgid "You need to enter contact information"
+msgstr "Вам нужно ввести контактную информацию"
+
+#: ../functions.php:221
+msgid "phone number"
+msgstr "телефон"
+
+#: ../functions.php:224
+msgid "email address"
+msgstr "электронная почта"
+
+#: ../functions.php:227
+msgid "address"
+msgstr "адрес"
+
+#: ../functions.php:235 ../functions.php:421 ../functions.php:498
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../functions.php:241
+msgid "Phone field title"
+msgstr "Поле заголовка телефонного номера"
+
+#: ../functions.php:247 ../functions.php:256
+msgid "Field for the phone number"
+msgstr "Поле для телефонного номера"
+
+#: ../functions.php:265
+msgid "E-mail field title"
+msgstr "Поле заголовка электронной почты"
+
+#: ../functions.php:271 ../functions.php:280
+msgid "Field for an email"
+msgstr "Поле для электронной почты"
+
+#: ../functions.php:289
+msgid "Address field title"
+msgstr "Поле заголовка почтового адреса"
+
+#: ../functions.php:295
+msgid "Address field"
+msgstr "Поле почтового адреса"
+
+#: ../functions.php:307 ../functions.php:316
+msgid "You entered an invalid phone number"
+msgstr "Вы ввели некорректный телефонный номер"
+
+#: ../functions.php:326 ../functions.php:335
+msgid "You entered an invalid email address"
+msgstr "Вы ввели некорректный адрес электронной почты"
+
+#: ../functions.php:353 ../functions.php:354
+msgid "Travel Advisor Recent Posts Widget"
+msgstr "Trevel Advisor виджет Последние Записи"
+
+#: ../functions.php:361
+msgid "recent posts"
+msgstr "последние записи"
+
+#: ../functions.php:402
+msgid "No posts yet"
+msgstr "Нет записей"
+
+#: ../functions.php:427
+msgid "Number of posts to show"
+msgstr "Количество постов для отображения"
+
+#: ../functions.php:447 ../functions.php:448
+msgid "Travel Advisor RSS Widget"
+msgstr "Trevel Advisor виджет RSS"
+
+#: ../functions.php:504
+msgid "Count Recent Posts"
+msgstr "количество записей"
+
+#: ../functions.php:548
+msgid "Sidebar right"
+msgstr "Правая боковая панель"
+
+#: ../functions.php:549 ../functions.php:559
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr "Виджеты в этой области будут показаны на всех постах и страницах."
+
+#: ../functions.php:558
+msgid "Sidebar footer"
+msgstr "Нижняя панель"
+
+#: ../functions.php:575
+msgid "Add to slider"
+msgstr "Добавить в слайдер"
+
+#: ../functions.php:604
+msgid "To add this post into the slider, mark it"
+msgstr "Чтобы добавить эту запись в слайдер, отметьте ее."
+
+#: ../functions.php:657
+msgid "Show"
+msgstr "Посмотреть"
+
+#: ../functions.php:659 ../header.php:109
+msgid "read more"
+msgstr "читать далее"
+
+#: ../functions.php:697
+msgid "Pingback"
+msgstr "Уведомление"
+
+#: ../functions.php:698
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../functions.php:732
+msgid "Your comment is awaiting validation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: ../functions.php:746
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: ../functions.php:750
+msgid "Your email"
+msgstr "Ваша электронная почта"
+
+#: ../functions.php:754
+msgid "Your website"
+msgstr "Ваш сайт"
+
+#: ../header.php:68
+msgid "menu"
+msgstr "меню"
+
+#: ../index.php:34
+msgid "post"
+msgid_plural "posts"
+msgstr[0] "запись"
+msgstr[1] "записи"
+msgstr[2] "записей"
+
+#: ../index.php:36 ../index.php:38
+msgid "posts found"
+msgstr "записей найдено"
+
+#: ../index.php:48
+msgid "sort by date"
+msgstr "сортировать по дате"
+
+#: ../index.php:51
+msgid "sort by title"
+msgstr "сортировать по названию"
+
+#: ../index.php:62
+msgid "number of items"
+msgstr "количество элементов"
+
+#: ../index.php:65 ../index.php:68
+#, php-format
+msgid "show %d items"
+msgstr "показать %d записей"
+
+#: ../index.php:71
+msgid "show all items"
+msgstr "показать все записи"
+
+#: ../search.php:14
+#, php-format
+msgid "search results for: %s"
+msgstr "результаты поиска по: %s"
+
+#: ../searchform.php:12
+msgid "Search in Blog"
+msgstr "Поиск по Блогу"
+
+#: ../single.php:50
+msgid "Tags"
+msgstr "Метки"
+
+#: ../single.php:55
+msgid "Categories"
+msgstr "Рубрики"
+
+#: ../single.php:64
+msgid "Previous post"
+msgstr "Предыдущая запись"
+
+#: ../single.php:67
+msgid "Next post "
+msgstr "Следующая запись"
+
+#~ msgid "Theme Logo Image"
+#~ msgstr "Изображение логотипа темы"
+
+#~ msgid "Upload a Logo Image"
+#~ msgstr "Загрузить изображение логотипа"
+
+#~ msgid "No title"
+#~ msgstr "без названия"
+
+#~ msgid "Read more"
+#~ msgstr "прочитать больше"
+
+#~ msgid "Title address field"
+#~ msgstr "Поле заголовка почтового адреса"
+
+#~ msgid "Title e-mail field"
+#~ msgstr "Поле заголовка электронной почты"
+
+#~ msgid "Title phone field"
+#~ msgstr "Поле заголовка телефоного номеров"
+
+#~ msgid "email adress"
+#~ msgstr "электронная почта"
+
+#~ msgid "BestWebSoft"
+#~ msgstr "BestWebSoft"
+
+#~ msgid "WordPress"
+#~ msgstr "WordPress"
+
+#~ msgid "Your comment is awaiting validation"
+#~ msgstr "Ваш комментарий ожидает проверки"
+
+#~ msgid "travel advisor"
+#~ msgstr "travel advisor"
+
+#~ msgid "posted by "
+#~ msgstr "опубликовано"

@@ -1,0 +1,296 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Travel Advisor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-28 17:41+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: bestwebsoft.com <wp_theme@bestwebsoft.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Oops! That page can not be found"
+msgstr ""
+
+#: ../404.php:20
+msgid "It looks like nothing was found at this location. Maybe try a search"
+msgstr ""
+
+#: ../archive.php:29 ../index.php:94 ../search.php:29 ../single.php:23
+msgid "posted by"
+msgstr ""
+
+#: ../archive.php:33 ../functions.php:393 ../functions.php:482
+#: ../functions.php:728 ../index.php:98 ../search.php:33 ../single.php:27
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../archive.php:49 ../index.php:118 ../page.php:27 ../search.php:49
+#: ../single.php:42
+msgid "Pages"
+msgstr ""
+
+#: ../archive.php:60 ../index.php:132 ../search.php:60
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#: ../comments.php:14
+msgid "comments"
+msgstr ""
+
+#: ../comments.php:32
+msgid "Previous comments"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Next Comments"
+msgstr ""
+
+#: ../comments.php:42
+msgid "Comments are closed"
+msgstr ""
+
+#: ../comments.php:48 ../comments.php:49
+msgid "Leave a comment"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Your message"
+msgstr ""
+
+#: ../footer.php:34
+msgid "type your email"
+msgstr ""
+
+#: ../footer.php:35
+msgid "subscribe our news"
+msgstr ""
+
+#: ../footer.php:36
+msgid "send"
+msgstr ""
+
+#: ../footer.php:58
+msgid "Powered by"
+msgstr ""
+
+#: ../footer.php:59
+msgid "and"
+msgstr ""
+
+#: ../functions.php:61
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:96
+msgid "Upload a Logo Image for Header"
+msgstr ""
+
+#: ../functions.php:112
+msgid "Upload a Logo Image for Footer"
+msgstr ""
+
+#: ../functions.php:151 ../functions.php:152
+msgid "Travel Advisor Contact Widget"
+msgstr ""
+
+#: ../functions.php:157 ../functions.php:220
+msgid "Contacts"
+msgstr ""
+
+#: ../functions.php:213
+msgid "You need to enter contact information"
+msgstr ""
+
+#: ../functions.php:221
+msgid "phone number"
+msgstr ""
+
+#: ../functions.php:224
+msgid "email address"
+msgstr ""
+
+#: ../functions.php:227
+msgid "address"
+msgstr ""
+
+#: ../functions.php:235 ../functions.php:421 ../functions.php:498
+msgid "Title"
+msgstr ""
+
+#: ../functions.php:241
+msgid "Phone field title"
+msgstr ""
+
+#: ../functions.php:247 ../functions.php:256
+msgid "Field for the phone number"
+msgstr ""
+
+#: ../functions.php:265
+msgid "E-mail field title"
+msgstr ""
+
+#: ../functions.php:271 ../functions.php:280
+msgid "Field for an email"
+msgstr ""
+
+#: ../functions.php:289
+msgid "Address field title"
+msgstr ""
+
+#: ../functions.php:295
+msgid "Address field"
+msgstr ""
+
+#: ../functions.php:307 ../functions.php:316
+msgid "You entered an invalid phone number"
+msgstr ""
+
+#: ../functions.php:326 ../functions.php:335
+msgid "You entered an invalid email address"
+msgstr ""
+
+#: ../functions.php:353 ../functions.php:354
+msgid "Travel Advisor Recent Posts Widget"
+msgstr ""
+
+#: ../functions.php:361
+msgid "recent posts"
+msgstr ""
+
+#: ../functions.php:402
+msgid "No posts yet"
+msgstr ""
+
+#: ../functions.php:427
+msgid "Number of posts to show"
+msgstr ""
+
+#: ../functions.php:447 ../functions.php:448
+msgid "Travel Advisor RSS Widget"
+msgstr ""
+
+#: ../functions.php:504
+msgid "Count Recent Posts"
+msgstr ""
+
+#: ../functions.php:548
+msgid "Sidebar right"
+msgstr ""
+
+#: ../functions.php:549 ../functions.php:559
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr ""
+
+#: ../functions.php:558
+msgid "Sidebar footer"
+msgstr ""
+
+#: ../functions.php:575
+msgid "Add to slider"
+msgstr ""
+
+#: ../functions.php:604
+msgid "To add this post into the slider, mark it"
+msgstr ""
+
+#: ../functions.php:657
+msgid "Show"
+msgstr ""
+
+#: ../functions.php:659 ../header.php:109
+msgid "read more"
+msgstr ""
+
+#: ../functions.php:697
+msgid "Pingback"
+msgstr ""
+
+#: ../functions.php:698
+msgid "Edit"
+msgstr ""
+
+#: ../functions.php:732
+msgid "Your comment is awaiting validation."
+msgstr ""
+
+#: ../functions.php:746
+msgid "Username"
+msgstr ""
+
+#: ../functions.php:750
+msgid "Your email"
+msgstr ""
+
+#: ../functions.php:754
+msgid "Your website"
+msgstr ""
+
+#: ../header.php:68
+msgid "menu"
+msgstr ""
+
+#: ../index.php:34
+msgid "post"
+msgid_plural "posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../index.php:36 ../index.php:38
+msgid "posts found"
+msgstr ""
+
+#: ../index.php:48
+msgid "sort by date"
+msgstr ""
+
+#: ../index.php:51
+msgid "sort by title"
+msgstr ""
+
+#: ../index.php:62
+msgid "number of items"
+msgstr ""
+
+#: ../index.php:65 ../index.php:68
+#, php-format
+msgid "show %d items"
+msgstr ""
+
+#: ../index.php:71
+msgid "show all items"
+msgstr ""
+
+#: ../search.php:14
+#, php-format
+msgid "search results for: %s"
+msgstr ""
+
+#: ../searchform.php:12
+msgid "Search in Blog"
+msgstr ""
+
+#: ../single.php:50
+msgid "Tags"
+msgstr ""
+
+#: ../single.php:55
+msgid "Categories"
+msgstr ""
+
+#: ../single.php:64
+msgid "Previous post"
+msgstr ""
+
+#: ../single.php:67
+msgid "Next post "
+msgstr ""
