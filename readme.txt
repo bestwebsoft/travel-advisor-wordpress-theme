@@ -3,9 +3,9 @@ Contributors: BestWebLayout, BestWebSoft
 Author URI: http://bestweblayout.com/
 Donate link: https://www.2checkout.com/checkout/purchase?sid=1430388&quantity=10&product_id=13
 Tags: blog, footer-widgets, two-columns, right-sidebar, custom-header, custom-background, custom-menu, editor-style, featured-images, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
-Requires at least: 4.2
-Tested up to: 4.5.3
-Stable tag: 1.0
+Requires at least: 4.3
+Tested up to: 4.6.1
+Stable tag: 1.1
 License: GNU General Public License V3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Travel Advisor WordPress Theme, Copyright 2016 BestWebLayout.com
@@ -143,10 +143,17 @@ Change the language in the admin settings screen. Settings > General > Site Lang
 
 == Changelog ==
 
+= V1.1 - 27.09.2016 =
+* Update: Theme screenshot was updated.
+* Update: All functionality for WordPress 4.6.1 was updated.
+
 = V1.0 =
 * New: Release Travel Advisor theme.
 
 == Upgrade Notice ==
+
+= V1.1 =
+Theme screenshot was updated. All functionality for WordPress 4.6.1 was updated.
 
 = V1.0 =
 The Travel Advisor theme is ready for use.

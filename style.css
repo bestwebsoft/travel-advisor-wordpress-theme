@@ -5,7 +5,7 @@ Author: BestWebLayout
 Author URI: http://bestweblayout.com/
 Description: Are you in fond of travelling? Would you like to share your impressions with people around you? Maybe you have some business related to this field?  Travel Advisor is exactly what you need! This theme focused on accessible and detailed informing. Moreover, it allows you to add large-format images and custom widgets which will definitely attract the attention of your visitors and won't leave anyone indifferent.
 Check out demo at http://wp-demo-theme.bestweblayout.com/travel-advisor/
-Version: 1.0
+Version: 1.1
 License: GNU General Public License V3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Tags: blog, footer-widgets, two-columns, right-sidebar, custom-header, custom-background, custom-menu, editor-style, featured-images, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
@@ -1555,8 +1555,7 @@ a.more-link {
 
 /*-------------list----------------------------*/
 #travel-advisor-post-content ul {
-	list-style-position: outside;
-	list-style-type: none;
+	list-style: none outside;
 }
 
 #travel-advisor-post-content ul > li:before {
@@ -4724,7 +4723,7 @@ footer {
 
 	.author-them {
 		float: none;
-		padding-top: 11px0;
+		padding-top: 11px;
 		max-width: 100%;
 		text-align: center;
 		font-size: 18px;
